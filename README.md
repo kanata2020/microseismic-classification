@@ -2,7 +2,7 @@
 ## Requirements
 python 3
 ## Data
-Testing data can be downloaded from: https://strathcloud.sharefile.eu/d-s2e56a4e3060b4b2f84020c8502a6196c
+Testing data can be downloaded from: https://strathcloud.sharefile.eu/d-sd1a05fdc7e134d3d9c9a3383c4dd65a6
 ## Models
 Models are save as '.h5' file in folder 'Models'.
 Each network has corresponding '.h5' file.
